@@ -4,7 +4,25 @@
     width: 30px;
 }
 .navbar-toggle{
-    float: left;
+    float: right;
+
+}
+#logo {
+    height: 170px;
+    margin: auto;
+    border: none;
+    margin-top: 2px;
+    margin-left: 50px;
+    display: block;
+}
+.logoPrincipal {
+    height: 170px;
+    width: 170px;
+    border: none;
+    background-color: white;
+}
+.container{
+    float:right;
 }
 #nav navbar-nav{
     color: cornsilk; 
