@@ -1,0 +1,19 @@
+
+.navbar-header img{
+    height: 30px;
+    width: 30px;
+}
+.navbar-toggle{
+    float: left;
+}
+#nav navbar-nav{
+    color: cornsilk; 
+}
+#navbar {
+background-color: blueviolet;
+color: cornsilk;
+}
+#navdar {
+    margin-top: 50px;
+
+}
